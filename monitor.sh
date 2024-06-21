@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOG_FILE="/home/tateus1/Projeto_SO/monitor.log"
+LOG_FILE="/home/gusst/script/monitor.log"
 
 # Função para obter o uso da CPU e Memória
 monitor_cpu_mem() {
